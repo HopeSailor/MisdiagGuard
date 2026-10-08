@@ -1,0 +1,13 @@
+# Unpinned inventory inferred from notebook imports; original environment not verified.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+xgboost
+shap
+torch
+transformers
+openpyxl
+tqdm
